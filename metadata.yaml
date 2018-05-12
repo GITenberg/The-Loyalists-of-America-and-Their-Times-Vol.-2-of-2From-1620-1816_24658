@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9671
     wikipedia: http://en.wikipedia.org/wiki/Egerton_Ryerson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24658#The-Loyalists-of-America-and-Their-Times-Vol.-2-of-2From-1620-1816
 gutenberg_bookshelf: United States
 gutenberg_issued: '2008-02-20'
 gutenberg_type: Text
